@@ -55,17 +55,15 @@ SpringBoot集成常用开发中间件，分库分表，缓存，消息队列，�
 【<b>公众号：知了一笑</b>】    【<b><a href="https://www.zhihu.com/people/cicadasmile/columns">知乎专栏</a></b>】<br/>
 <img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
 
-## 项目推荐
+## 推荐项目
 
-<b>1、SpringBoot2 基础案例  -- >> 【[GitHub点这里](https://github.com/cicadasmile/spring-boot-base)】          【[码云.点这里](https://gitee.com/cicadasmile/spring-boot-base)】</b><br/>
-【SpringBoot2 基础，进阶，事物管理，数据库，NoSql，项目管理等基础案例】<br/><br/>
-<b>2、SpringBoot2 整合中间件  -- >> 【[GitHub点这里](https://github.com/cicadasmile/middle-ware-parent)】          【[码云.点这里](https://gitee.com/cicadasmile/middle-ware-parent)】</b><br/>
-【分库分表，缓存，消息队列，定时器，搜索引擎，分布式文件系统，权限管理等中间件】<br/><br/>
-<b>3、SpringCloud 微服务组件  -- >> 【[GitHub点这里](https://github.com/cicadasmile/spring-cloud-base)】          【[码云.点这里](https://gitee.com/cicadasmile/spring-cloud-base)】</b><br/>
-【微服务常用组件：Eureka、 Ribbon、Feign、Hystrix、Zuul、Config等】<br/><br/>
-<b>4、SpringCloud 综合案例  -- >> 【[GitHub点这里](https://github.com/cicadasmile/cloud-shard-jdbc)】          【[码云.点这里](https://gitee.com/cicadasmile/cloud-shard-jdbc)】</b><br/>
-【实现微服务下基于Shard-jdbc分库分表模式下，数据库扩容，数据迁移，解决办法。】<br/><br/>
-<b>5、设计模式-算法-结构  -- >> 【[GitHub点这里](https://github.com/cicadasmile/model-arithmetic-parent)】          【[码云.点这里](https://gitee.com/cicadasmile/model-arithmetic-parent)】</b><br/>
-【常用的：数据结构、算法、二十三种设计模式，编程核心基础积累。】<br/><br/>
-<b>6、Linux基础.环境.运维  -- >> 【[GitHub点这里](https://github.com/cicadasmile/linux-system-base)】          【[码云.点这里](https://gitee.com/cicadasmile/linux-system-base)】</b><br/>
-【Linux系统，基础用法积累，常用开发环境搭建，运维相关操作。】<br/>
+|项目名称|GitHub地址|GitEE地址|推荐指数|
+|:---|:---|:---|:---|
+|SpringCloud微服务架构实战综合案例|[GitHub·点这里](https://github.com/cicadasmile/husky-spring-cloud)|[GitEE·点这里](https://gitee.com/cicadasmile/husky-spring-cloud)|☆☆☆☆☆|
+|SpringCloud微服务基础组件案例详解|[GitHub·点这里](https://github.com/cicadasmile/spring-cloud-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-cloud-base)|☆☆☆|
+|SpringCloud实现分库分表模式下数据库实时扩容|[GitHub·点这里](https://github.com/cicadasmile/cloud-shard-jdbc)|[GitEE·点这里](https://gitee.com/cicadasmile/cloud-shard-jdbc)|☆☆☆☆☆|
+|SpringBoot框架基础应用入门到进阶|[GitHub·点这里](https://github.com/cicadasmile/spring-boot-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)|☆☆☆☆|
+|SpringBoot框架整合开发常用中间件|[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)|☆☆☆☆☆|
+|Spring+Mvc框架基础案例详解|[GitHub·点这里](https://github.com/cicadasmile/spring-mvc-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-mvc-parent)|☆☆|
+|Java描述常用设计模式,算法,数据结构|[GitHub·点这里](https://github.com/cicadasmile/model-arithmetic-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/model-arithmetic-parent)|☆☆☆☆☆|
+|Linux系统基础、运维,常用操作积累|[GitHub·点这里](https://github.com/cicadasmile/linux-system-base)|[GitEE·点这里](https://gitee.com/cicadasmile/linux-system-base)|☆☆☆|
