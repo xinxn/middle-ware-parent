@@ -34,7 +34,7 @@
         <!-- ElasticSearch 搜索框架 -->
         <module>ware08-elastic-search</module>
         <!-- JWT TOKEN 验证 -->
-        <module>ware-jwt-token</module>
+        <module>ware09-jwt-token</module>
         <!-- FastDFS文件管理 -->
         <module>ware-fast-dfs</module>
         <!-- Shiro 权限管理 -->
