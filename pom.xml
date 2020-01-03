@@ -46,9 +46,9 @@
         <!-- Drools 规则引擎 -->
         <module>ware14-drool-rule</module>
         <!-- MySQL多数据源配置 -->
-        <module>ware-source-data</module>
+        <module>ware15-source-data</module>
         <!-- MyBatisPlus增强框架 -->
-        <module>ware-plus-batis</module>
+        <module>ware15-plus-batis</module>
     </modules>
 
     <!-- 依赖版本管理 -->
