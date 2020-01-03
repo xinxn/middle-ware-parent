@@ -30,7 +30,7 @@
         <!-- RedisCluster 集群 -->
         <module>ware06-redis-cluster</module>
         <!-- Dubbo 框架 -->
-        <module>ware-dubbo-parent</module>
+        <module>ware07-dubbo-parent</module>
         <!-- ElasticSearch 搜索框架 -->
         <module>ware-elastic-search</module>
         <!-- JWT TOKEN 验证 -->
