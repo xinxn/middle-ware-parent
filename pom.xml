@@ -40,7 +40,7 @@
         <!-- Shiro 权限管理 -->
         <module>ware11-shiro-auth</module>
         <!-- Security 权限管理 -->
-        <module>ware-security-auth</module>
+        <module>ware12-security-auth</module>
         <!-- ClickHouse 数据库 -->
         <module>ware-click-house</module>
         <!-- Drools 规则引擎 -->
