@@ -36,7 +36,7 @@
         <!-- JWT TOKEN 验证 -->
         <module>ware09-jwt-token</module>
         <!-- FastDFS文件管理 -->
-        <module>ware-fast-dfs</module>
+        <module>ware10-fast-dfs</module>
         <!-- Shiro 权限管理 -->
         <module>ware-shiro-auth</module>
         <!-- Security 权限管理 -->
