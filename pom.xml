@@ -26,7 +26,7 @@
         <!-- Swagger2 接口界面 -->
         <module>ware04-swagger-two</module>
         <!-- QuartJob 定时器 -->
-        <module>ware-quart-job</module>
+        <module>ware05-quart-job</module>
         <!-- RedisCluster 集群 -->
         <module>ware-redis-cluster</module>
         <!-- Dubbo 框架 -->
