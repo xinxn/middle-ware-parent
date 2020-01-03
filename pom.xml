@@ -42,7 +42,7 @@
         <!-- Security 权限管理 -->
         <module>ware12-security-auth</module>
         <!-- ClickHouse 数据库 -->
-        <module>ware-click-house</module>
+        <module>ware13-click-house</module>
         <!-- Drools 规则引擎 -->
         <module>ware-drool-rule</module>
         <!-- MySQL多数据源配置 -->
