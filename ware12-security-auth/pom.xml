@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.security.auth</groupId>
-    <artifactId>ware-security-auth</artifactId>
+    <artifactId>ware12-security-auth</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

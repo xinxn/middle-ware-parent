@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.quart.job</groupId>
-    <artifactId>ware-quart-job</artifactId>
+    <artifactId>ware05-quart-job</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

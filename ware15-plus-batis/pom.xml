@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.plus.batis</groupId>
-    <artifactId>ware-plus-batis</artifactId>
+    <artifactId>ware15-plus-batis</artifactId>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>

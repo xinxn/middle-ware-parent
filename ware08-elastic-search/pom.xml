@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.elastic.search</groupId>
-    <artifactId>ware-elastic-search</artifactId>
+    <artifactId>ware08-elastic-search</artifactId>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>

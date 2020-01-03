@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.dubbo.parent</groupId>
-    <artifactId>ware-dubbo-parent</artifactId>
+    <artifactId>ware07-dubbo-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>

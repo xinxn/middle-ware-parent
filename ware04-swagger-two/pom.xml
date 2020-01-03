@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.swagger.two</groupId>
-    <artifactId>ware-swagger-two</artifactId>
+    <artifactId>ware04-swagger-two</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.click.house</groupId>
-    <artifactId>ware-click-house</artifactId>
+    <artifactId>ware13-click-house</artifactId>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>

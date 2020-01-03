@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.fast.dfs</groupId>
-    <artifactId>ware-fast-dfs</artifactId>
+    <artifactId>ware10-fast-dfs</artifactId>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>

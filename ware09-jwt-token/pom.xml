@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jwt.token</groupId>
-    <artifactId>ware-jwt-token</artifactId>
+    <artifactId>ware09-jwt-token</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

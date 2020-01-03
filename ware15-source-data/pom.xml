@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.source.data</groupId>
-    <artifactId>ware-source-data</artifactId>
+    <artifactId>ware15-source-data</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.shiro.auth</groupId>
-    <artifactId>ware-shiro-auth</artifactId>
+    <artifactId>ware11-shiro-auth</artifactId>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>

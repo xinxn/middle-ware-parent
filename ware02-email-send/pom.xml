@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.email.send</groupId>
-    <artifactId>ware-email-send</artifactId>
+    <artifactId>ware02-email-send</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>
