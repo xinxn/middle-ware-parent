@@ -32,7 +32,7 @@
         <!-- Dubbo 框架 -->
         <module>ware07-dubbo-parent</module>
         <!-- ElasticSearch 搜索框架 -->
-        <module>ware-elastic-search</module>
+        <module>ware08-elastic-search</module>
         <!-- JWT TOKEN 验证 -->
         <module>ware-jwt-token</module>
         <!-- FastDFS文件管理 -->
