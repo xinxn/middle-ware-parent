@@ -28,7 +28,7 @@
         <!-- QuartJob 定时器 -->
         <module>ware05-quart-job</module>
         <!-- RedisCluster 集群 -->
-        <module>ware-redis-cluster</module>
+        <module>ware06-redis-cluster</module>
         <!-- Dubbo 框架 -->
         <module>ware-dubbo-parent</module>
         <!-- ElasticSearch 搜索框架 -->
