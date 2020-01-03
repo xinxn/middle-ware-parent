@@ -19,12 +19,12 @@
     <modules>
         <!-- ShardJdbc 分库分表-->
         <module>ware01-shard-jdbc</module>
+        <!-- JavaMail邮件 发送 -->
+        <module>ware02-email-send</module>
         <!-- QuartJob 定时器 -->
         <module>ware-quart-job</module>
         <!-- RocketMq 消息中间件 -->
         <module>ware-rocket-queue</module>
-        <!-- JavaMail邮件 发送 -->
-        <module>ware-email-send</module>
         <!-- Swagger2 接口界面 -->
         <module>ware-swagger-two</module>
         <!-- RedisCluster 集群 -->
