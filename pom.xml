@@ -49,6 +49,8 @@
         <module>ware15-source-data</module>
         <!-- MyBatisPlus增强框架 -->
         <module>ware15-plus-batis</module>
+        <!-- Zookeeper协调框架 -->
+        <module>ware16-zoo-keeper</module>
     </modules>
 
     <!-- 依赖版本管理 -->
