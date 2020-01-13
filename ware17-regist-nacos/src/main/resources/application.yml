@@ -1,0 +1,14 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 7017
+spring:
+  profiles:
+    active: dev
+  application:
+    name: ware17-regist-nacos
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true

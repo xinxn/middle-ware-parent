@@ -51,6 +51,8 @@
         <module>ware15-plus-batis</module>
         <!-- Zookeeper协调框架 -->
         <module>ware16-zoo-keeper</module>
+        <!-- Nacos 服务管理组件 -->
+        <module>ware17-regist-nacos</module>
     </modules>
 
     <!-- 依赖版本管理 -->
