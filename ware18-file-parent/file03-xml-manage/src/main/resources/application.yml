@@ -1,0 +1,12 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 1703
+spring:
+  application:
+    name: file03-xml-manage
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true

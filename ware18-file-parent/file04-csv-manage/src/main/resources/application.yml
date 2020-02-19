@@ -1,0 +1,12 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 1704
+spring:
+  application:
+    name: file04-csv-manage
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true

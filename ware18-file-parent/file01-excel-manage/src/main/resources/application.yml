@@ -1,0 +1,12 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 1701
+spring:
+  application:
+    name: file01-excel-manage
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true

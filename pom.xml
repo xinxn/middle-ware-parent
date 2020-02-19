@@ -53,6 +53,8 @@
         <module>ware16-zoo-keeper</module>
         <!-- Nacos 服务管理组件 -->
         <module>ware17-regist-nacos</module>
+        <!-- 文件管理系统封装 -->
+        <module>ware18-file-parent</module>
     </modules>
 
     <!-- 依赖版本管理 -->

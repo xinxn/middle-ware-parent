@@ -1,0 +1,12 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 1702
+spring:
+  application:
+    name: file02-pdf-manage
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true

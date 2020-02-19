@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project> 
+  <parent> 
+    <!--版本描述-->  
+    <groupId>spring-boot-2</groupId>  
+    <artifactId>spring-boot-starters</artifactId> 
+  </parent> 
+</project>
