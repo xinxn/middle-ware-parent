@@ -55,6 +55,8 @@
         <module>ware17-regist-nacos</module>
         <!-- 文件管理系统封装 -->
         <module>ware18-file-parent</module>
+        <!-- Kafka 分布式消息组件 -->
+        <module>ware19-kafka-parent</module>
     </modules>
 
     <!-- 依赖版本管理 -->
