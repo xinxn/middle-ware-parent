@@ -156,5 +156,55 @@ public class EmailUtil {
     public static String convertFileModel (String body,String param1){
         return String.format(body,param1) ;
     }
+    
+    
+    @Autowired
+    JavaMailSender javaMailSender; //邮件发送
+
+    public void contextLoads() {
+
+        SimpleMailMessage simpleMailMessage = new SimpleMailMessage();
+        //邮件设置值
+        simpleMailMessage.setSubject("测试邮件-java邮件任务");//邮件主题
+        simpleMailMessage.setText("测试邮件,测试java发送邮件任务......");//邮件内容
+        simpleMailMessage.setTo("2679044670@qq.com");//邮件发给谁
+        simpleMailMessage.setFrom("sysmessage@cguarantee.cn"); //邮件来自于谁
+        javaMailSender.send(simpleMailMessage);
+    }
+
+
+
+    /**
+     * 复杂邮件
+     */
+    public void contextLoads2(EmailBean t) throws Exception {
+        MimeMessage mimeMessage = javaMailSender.createMimeMessage();
+        //防止判断为垃圾邮箱
+        mimeMessage.addHeader("X-Mailer","Microsoft Outlook Express 6.00.2900.2869");
+        MimeMessageHelper mimeMessageHelper = new MimeMessageHelper(mimeMessage, true);
+        String[] addressee = t.getAddresseeList().toArray(new String[t.getAddresseeList().size()]);
+        mimeMessageHelper.setTo(addressee);//邮件发给谁
+//			mimeMessageHelper.setFrom("417511524@qq.com");
+        mimeMessageHelper.setFrom("sysmessage@cguarantee.cn");//邮件来自于谁
+        mimeMessageHelper.setSubject(t.getTitle());//邮件主题
+        mimeMessageHelper.setText(t.getContent(), false);//邮件内容
+        javaMailSender.send(mimeMessage);
+    }
+    
+    
+     public void contextLoads2() throws Exception {
+
+        MimeMessage mimeMessage = javaMailSender.createMimeMessage();
+        MimeMessageHelper mimeMessageHelper=new MimeMessageHelper(mimeMessage,true);
+        //邮件设置值
+        mimeMessageHelper.setSubject("测试邮件-java邮件任务(复杂邮件)");//邮件主题
+        mimeMessageHelper.setText("<b style='color:red'>测试邮件,测试java发送邮件任务......</b>",true);//邮件内容
+        //邮件 附件
+       // mimeMessageHelper.addAttachment("ceshi1.jpg",new File("C:\\Users\\57132\\Desktop\\ceshi1.png"));
+       // mimeMessageHelper.addAttachment("ceshi2.jpg",new File("C:\\Users\\57132\\Desktop\\ceshi2.png"));
+        mimeMessageHelper.setTo("2679044670@qq.com");//邮件发给谁
+        mimeMessageHelper.setFrom("sysmessage@cguarantee.cn"); //邮件来自于谁
+        javaMailSender.send(mimeMessage);
+    }
 
 }
